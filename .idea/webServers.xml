@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="61252e8e-62e4-490e-82bf-4a934785642c" name="腾讯云" url="http://123.207.47.17">
+        <fileTransfer host="123.207.47.17" port="22" privateKey="$PROJECT_DIR$/../腾讯云/bairdweng" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
